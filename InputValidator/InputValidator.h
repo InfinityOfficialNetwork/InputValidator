@@ -1,9 +1,9 @@
 //////////////////////////////////////////////////////////////////////////////////////////
-//						INPUT VALIDATOR - MOORE SPECIFICATIONS (C)						//
-//	  Suite of utilities to validate user inputs from the console, and other streams    //
-//			Includes ANY, MIN/MAXABLE, LISTABLE, and even CUSTOM validators!			//
-//					  There's nothing like this on the market today						//
-//				MOORE SPECIFICATIONS --- You won't find nothing like this!				//
+//                      INPUT VALIDATOR - MOORE SPECIFICATIONS (C)                      //
+//    Suite of utilities to validate user inputs from the console, and other streams    //
+//          Includes ANY, MIN/MAXABLE, LISTABLE, and even CUSTOM validators!            //
+//                    There's nothing like this on the market today                     //
+//              MOORE SPECIFICATIONS --- You won't find nothing like this!              //
 //////////////////////////////////////////////////////////////////////////////////////////
 
 #pragma once
